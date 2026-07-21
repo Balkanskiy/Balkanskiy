@@ -2,6 +2,8 @@
 
 ![NERV ID Card](nerv-id-card.svg)
 
+<img src="nerv-id-card.svg" width="700" alt="NERV ID Card"/>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
