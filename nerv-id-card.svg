@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420">
+  <defs>
+    <pattern id="hex" width="28" height="32" patternUnits="userSpaceOnUse">
+      <path d="M14 1L27 8.5v15L14 31 1 23.5v-15z" fill="none" stroke="#c87428" stroke-width="0.5"></path>
+    </pattern>
+    <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6b1217"></stop>
+      <stop offset="35%" stop-color="#c87428"></stop>
+      <stop offset="65%" stop-color="#d4891e"></stop>
+      <stop offset="100%" stop-color="#6b1217"></stop>
+    </linearGradient>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c87428" stop-opacity="0.04"></stop>
+      <stop offset="50%" stop-color="#c87428" stop-opacity="0.5"></stop>
+      <stop offset="100%" stop-color="#c87428" stop-opacity="0.04"></stop>
+    </linearGradient>
+  </defs>
+  
+
+  
+  <rect width="700" height="420" fill="#07080e"></rect>
+  
+  <rect width="700" height="420" fill="url(#hex)" opacity=".045"></rect>
+  
+  <rect width="700" height="420" fill="none" stroke="#c87428" stroke-width="1" stroke-opacity=".32"></rect>
+  
+  <text transform="translate(350,210) rotate(-18)" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="88" font-weight="700" fill="#c87428" fill-opacity=".032" letter-spacing="20">CLASSIFIED</text>
+  
+  <rect class="scan" x="0" y="0" width="700" height="4" fill="url(#hg)" opacity=".38"></rect>
+
+  
+  <rect x="0" y="0" width="700" height="3" fill="url(#sg)"></rect>
+
+  
+  <rect x="0" y="3" width="700" height="74" fill="#000" fill-opacity=".22"></rect>
+  <text x="22" y="36" font-family="sans-serif" font-size="20" font-weight="700" fill="#c87428" letter-spacing="3">JetBrains s.r.o.</text>
+  <text x="22" y="55" font-family="sans-serif" font-size="9" font-weight="600" fill="#35394a" letter-spacing="2.5">Develop with drive and IntelliJ IDEA</text>
+  <text x="22" y="67" font-family="sans-serif" font-size="7.5" fill="#252832" letter-spacing="2">PERSONNEL IDENTIFICATION CARD</text>
+
+  
+  <text x="651" y="21" text-anchor="middle" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="2">CLEARANCE</text>
+  <circle class="pulse" cx="651" cy="46" r="23" fill="#c87428" fill-opacity=".05" stroke="#c87428" stroke-width="2" stroke-opacity=".65"></circle>
+  <text x="651" y="55" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#c87428">A</text>
+  <text x="651" y="72" text-anchor="middle" font-family="sans-serif" font-size="7" fill="#252832" letter-spacing="1">LEVEL</text>
+
+  
+  <rect x="0" y="77" width="700" height="1" fill="url(#hg)"></rect>
+
+  
+
+  
+  <text x="22" y="104" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="3">PERSONNEL NAME</text>
+  <text x="22" y="126" font-family="sans-serif" font-size="22" font-weight="700" fill="#d0d4de" letter-spacing="1.5">BALKANSKIY, ALEX</text>
+  <rect x="22" y="133" width="656" height="1" fill="#c87428" fill-opacity=".16"></rect>
+
+  
+  <text x="22" y="160" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="2.5">DATE OF BIRTH</text>
+  <text x="22" y="177" font-family="monospace" font-size="13" font-weight="600" fill="#7a8098" letter-spacing="1">10·03</text>
+
+  
+  <text x="362" y="160" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="2.5">LEVEL</text>
+  <text x="362" y="180" font-family="sans-serif" font-size="21" font-weight="700" fill="#c87428" letter-spacing="1">Senior</text>
+
+  
+  <text x="22" y="208" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="2.5">POSITION</text>
+  <text x="22" y="224" font-family="sans-serif" font-size="12" font-weight="600" fill="#7a8098" letter-spacing=".5">Software Developer / Project Manager</text>
+
+  
+  <text x="362" y="208" font-family="sans-serif" font-size="7.5" font-weight="600" fill="#35394a" letter-spacing="2.5">DIVISION</text>
+  <text x="362" y="224" font-family="sans-serif" font-size="13" font-weight="600" fill="#7a8098" letter-spacing=".5">Web Department</text>
+
+  
+  <line x1="22" y1="263" x2="260" y2="263" stroke="#c87428" stroke-opacity=".1"></line>
+  <text x="350" y="267" text-anchor="middle" font-family="sans-serif" font-size="7" fill="#20242e" letter-spacing="1.5">◈ BIOMETRIC SIGNATURE VERIFIED</text>
+  <line x1="440" y1="263" x2="678" y2="263" stroke="#c87428" stroke-opacity=".1"></line>
+
+  
+  <text x="22" y="302" font-family="monospace" font-size="9" fill="#2e3240" letter-spacing="1.5">NRV-3-01-C-2015</text>
+  <circle class="blink" cx="196" cy="298" r="3.5" fill="#1f8039"></circle>
+  <text x="207" y="302" font-family="sans-serif" font-size="8" font-weight="700" fill="#1f8039" letter-spacing="2.5">ACTIVE</text>
+
+  
+  <rect x="0" y="318" width="700" height="1" fill="url(#hg)"></rect>
+
+  
+  <rect x="0" y="319" width="700" height="98" fill="#000" fill-opacity=".22"></rect>
+
+  
+  <g transform="translate(22,336)" fill="#c87428" fill-opacity=".6">
+    <rect x="0" width="2" height="26"></rect><rect x="4" width="1" height="26"></rect>
+    <rect x="8" width="3" height="26"></rect><rect x="13" width="1" height="26"></rect>
+    <rect x="17" width="2" height="26"></rect><rect x="22" width="1" height="26"></rect>
+    <rect x="26" width="3" height="26"></rect><rect x="31" width="2" height="26"></rect>
+    <rect x="36" width="1" height="26"></rect><rect x="40" width="4" height="26"></rect>
+    <rect x="47" width="1" height="26"></rect><rect x="51" width="2" height="26"></rect>
+    <rect x="56" width="1" height="26"></rect><rect x="60" width="3" height="26"></rect>
+    <rect x="66" width="1" height="26"></rect><rect x="70" width="2" height="26"></rect>
+    <rect x="74" width="4" height="26"></rect><rect x="80" width="1" height="26"></rect>
+    <rect x="84" width="3" height="26"></rect><rect x="90" width="1" height="26"></rect>
+    <rect x="94" width="2" height="26"></rect>
+  </g>
+
+  
+  <text x="350" y="382" text-anchor="middle" font-family="monospace" font-size="7.5" fill="#1c2030" letter-spacing="2">GOD&#39;S IN HIS HEAVEN — ALL&#39;S RIGHT WITH THE WORLD</text>
+
+  
+  <text x="678" y="350" text-anchor="end" font-family="sans-serif" font-size="7.5" fill="#252830" letter-spacing="1.5">NERV HQ · TOKYO-3</text>
+  <text x="678" y="364" text-anchor="end" font-family="monospace" font-size="7" fill="#1a1e28" letter-spacing="1">EXP 2016·09·13</text>
+
+  
+  <rect x="0" y="417" width="700" height="3" fill="url(#sg)"></rect>
+</svg>
