@@ -1,7 +1,3 @@
-## Hello there 👋
-
-![NERV ID Card](nerv-id-card.svg)
-
 <img src="nerv-id-card.svg" width="700" alt="NERV ID Card"/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -27,5 +23,3 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-
